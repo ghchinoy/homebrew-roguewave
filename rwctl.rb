@@ -1,8 +1,8 @@
 class Rwctl < Formula
   desc "Rogue Wave API Platform CLI"
   homepage "https://github.com/ghchinoy/rwctl"
-  url "https://github.com/ghchinoy/rwctl/releases/download/v0.1.0/rwctl-0.1.0.tar.gz"
-  sha256 "2532c11bb6401b08e9f31f7a327a86adefafc11ec11da42153d87ce6e450a53d"
+  url "https://github.com/ghchinoy/rwctl/releases/download/v0.2.0/rwctl-0.2.0.tar.gz"
+  sha256 "7d0bc8ed2e92f53d5b3e930fda39909cbd0acd71572015de08b0a350a0a1f72b"
 
   bottle :unneeded
 
