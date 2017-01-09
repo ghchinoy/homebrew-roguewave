@@ -8,7 +8,7 @@ This repository is a convenience for installing my cli tools:
 
 ```
 brew update
-brew install ghchinoy/akana/atmotool
+brew install ghchinoy/roguewave/rwctl
 ```
 
 
